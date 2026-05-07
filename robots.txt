@@ -1,0 +1,5 @@
+
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://alanbiju27-maker.github.io/alan/sitemap.xml
